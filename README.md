@@ -1,5 +1,6 @@
-#Curso de programação - Haskell para Iniciantes
+Curso de programação - Haskell para Iniciantes -> https://www.udemy.com/curso-haskell
 
+Aulas:
 1. Preparando o ambiente
 2. Somando números
 3. Fatorial
